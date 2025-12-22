@@ -5,6 +5,7 @@ import DashboardPage from './pages/DashboardPage.jsx';
 import { useUser } from '@clerk/clerk-react';
 import { Toaster } from 'react-hot-toast';
 import ProblemPage from './pages/ProblemPage.jsx';
+import SessionPage from './pages/SessionPage.jsx';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
 
         <Route path="/problems" element = {isSignedIn?<ProblemsPage/>:<Navigate to={"/"}/>}/>;
         <Route path="/problem/:id" element = {isSignedIn?<ProblemPage/>:<Navigate to={"/"}/>}/>;
+        <Route path="/session/:id" element = {isSignedIn?<SessionPage/>:<Navigate to={"/"}/>}/>;
       
       </Routes>
 
