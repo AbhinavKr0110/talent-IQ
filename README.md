@@ -1,7 +1,7 @@
 # 🚀 Talent IQ
 
 *TalentIQ* is a smart hiring & interview management platform designed to simplify the recruitment workflow.  
-From scheduling meetings to hosting interview sessions with real-time features, HireMeet helps recruiters and candidates connect seamlessly.
+From scheduling meetings to hosting interview sessions with real-time features, *TalentIQ* helps recruiters and candidates connect seamlessly.
 
 ---
 
