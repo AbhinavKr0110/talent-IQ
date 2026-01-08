@@ -50,8 +50,8 @@ From scheduling meetings to hosting interview sessions with real-time features, 
 ## 🧩 Getting Started
 
 ### *Clone the Repository*
-bash
-git clone https://github.com/AbhinavKr0110/talent-IQ.git
+bash  
+git clone https://github.com/AbhinavKr0110/talent-IQ.git  
 cd TalentIQ
 
 
