@@ -59,9 +59,9 @@ cd TalentIQ
 
 ## ⚙️ Backend Setup
 
-bash
-cd backend
-npm install
+bash  
+cd backend  
+npm install  
 npm run dev
 
 
@@ -69,9 +69,9 @@ npm run dev
 
 ## 💻 Frontend Setup
 
-bash
-cd frontend
-npm install
+bash  
+cd frontend  
+npm install  
 npm run dev
 
 
@@ -83,18 +83,18 @@ npm run dev
 
 ### *Frontend (.env.local)*  
 
-VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key  
 VITE_API_URL=http://localhost:3000
 
 
 ### *Backend (.env)*  
 
-PORT=3000
-MONGO_URI=your_mongodb_connection_string
-CLERK_SECRET_KEY=your_clerk_secret_key
-STREAM_API_KEY=your_stream_key
-STREAM_SECRET=your_stream_secret
-FRONTEND_URL=http://localhost:5173
+PORT=3000  
+MONGO_URI=your_mongodb_connection_string  
+CLERK_SECRET_KEY=your_clerk_secret_key  
+STREAM_API_KEY=your_stream_key  
+STREAM_SECRET=your_stream_secret  
+FRONTEND_URL=http://localhost:5173  
 JWT_SECRET=your_jwt_secret
 
 
@@ -103,10 +103,10 @@ JWT_SECRET=your_jwt_secret
 ## 📂 Project Structure
 
 
-TalentIQ/
-│── backend/
-│── frontend/
-│── README.md
+TalentIQ/  
+│── backend/  
+│── frontend/  
+│── README.md  
 │── .gitignore
 
 
@@ -114,12 +114,12 @@ TalentIQ/
 
 ## 🚀 Deployment
 
-Deploy using:
+Deploy using:  
 - Sevalla
 
-Build:
-bash
-npm run build
+Build:  
+bash  
+npm run build  
 npm run start
 
 
