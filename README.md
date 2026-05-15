@@ -43,7 +43,7 @@ From scheduling meetings to hosting interview sessions with real-time features, 
 
 ## 🚀 Live Demo
 
-👉 *Production URL:* [https://talent-iq-dtkm3.sevalla.app/](https://new-job-search-1.onrender.com/)
+👉 *Production URL:* https://new-job-search-1.onrender.com/
 
 ---
 
